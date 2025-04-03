@@ -5,6 +5,7 @@
 ## 📁 Folder Structure
 - `Decide-Structure-C` → First lesson exercises about decision structure, if, else if, switch, etc...
 - `Repetitions-C` → First practice and assignments about repetitions, while, do while, for.
+- `Random-C` → Random unorganised C codes made in my class, check them out.
 
 ## 🚀 How to Use
 1. Browse the folders to find specific exercises.
