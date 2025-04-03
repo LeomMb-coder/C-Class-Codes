@@ -4,7 +4,7 @@
 
 ## 📁 Folder Structure
 - `Decide-Structure-C` → First lesson exercises about decision structure, if, else if, switch, etc...
-- `Repetitions C` → First practice and assignments about repetitions, while, do while, for.
+- `Repetitions-C` → First practice and assignments about repetitions, while, do while, for.
 
 ## 🚀 How to Use
 1. Browse the folders to find specific exercises.
