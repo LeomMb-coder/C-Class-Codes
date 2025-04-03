@@ -3,9 +3,8 @@
 📂 A collection of C programming exercises and assignments from my programming class. Organized into folders for easy access and learning.
 
 ## 📁 Folder Structure
-- `Repetitions C/` → First lesson exercises
-- `lesson-02/` → More practice and assignments
-- (Add more as needed)
+- `Decide-Structure-C` → First lesson exercises about decision structure, if, else if, switch, etc...
+- `Repetitions C` → First practice and assignments about repetitions, while, do while, for.
 
 ## 🚀 How to Use
 1. Browse the folders to find specific exercises.
